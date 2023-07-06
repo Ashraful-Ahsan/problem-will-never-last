@@ -1,0 +1,7 @@
+img{
+    width: 200px;
+    border-radius: 100px 300px 50px 600px;
+    border-right: 5px solid tomato ;
+    border-left:3px solid greenyellow ;
+    border-bottom: 3px solid blueviolet;
+}   
